@@ -1,3 +1,13 @@
+# Joseph Ruhe's First CS193 Homework
+
+- I really like the people teaching this class, they are very light-hearted
+- I enjoy the smaller class size
+- I enjoy the resources made available on canvas and the ease of doing this assignment
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
